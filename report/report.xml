@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<testsuite name="Cucumber" time="6.5" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-19T11:55:08.405Z">
+  <testcase classname="Desktop Web Feature" name="Demo Test Using Default Resolver" time="6.096">
+    <system-out><![CDATA[Given I open 'https://www.onliner.by/' url..................................passed
+When I click 'link with text:Каталог'.......................................passed
+Then I expect current url to contain 'catalog.onliner.by'...................passed
+When I click 'link with text:Форум'.........................................passed
+Then I expect current url to contain 'forum.onliner.by'.....................passed]]></system-out>
+  </testcase>
+</testsuite>

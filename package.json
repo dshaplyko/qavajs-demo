@@ -1,0 +1,18 @@
+{
+  "name": "qavajs_project",
+  "version": "1.0.0",
+  "description": "qavajs project",
+  "scripts": {
+    "test": "qavajs run"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@qavajs/console-formatter": "^1.0.0",
+    "@qavajs/core": "^2.5.0",
+    "@qavajs/html-formatter": "^0.18.1",
+    "@qavajs/steps-memory": "^2.0.0",
+    "@qavajs/steps-playwright": "^2.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
